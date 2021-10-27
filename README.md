@@ -9,7 +9,7 @@ In agriculture, it is crucial to have an uniform irrigation (water distribution 
 
 # How to use it ? 
 
-1- Download the notebook.
-2- Upload it in google colab.
-3- Upload a legend image (name it colors.png) and your original images. 
-4- Enjoy your Excel file with the approximate surface of each color. 
+* Download the notebook.
+* Upload it in google colab.
+* Upload a legend image (name it colors.png) and your original images. 
+* Enjoy your Excel file with the approximate surface of each color. 
